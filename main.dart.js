@@ -80886,7 +80886,7 @@ c=j[1]
 i=j[2]
 h=[400*d/(d+27.13),400*c/(c+27.13),400*i/(i+27.13)]
 return new A.a8G(l,(40*h[0]+20*h[1]+h[2])/20*k,k,k,a1,1,q,m,A.D2(m,0.25),1.48+e)})
-s($,"aFl","arG",()=>{var q="YnZIW8ELJEdCVZIoaRubML0kT9cCsVaukBjrsAtH"
+s($,"aFl","arG",()=>{var q="92UT3RbI9pBYK1g4UdFqVL895bx0EhJXAd51h2dD"
 if(B.c.gU(q))A.a9(A.d8("API key is required"))
 if(B.c.gU(q))A.a9(A.d8("No API key provided. Provide the API key in the client initialization."))
 return new A.U3(q,"https://api.cohere.ai")})
